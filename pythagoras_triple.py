@@ -1,6 +1,6 @@
 #********************************************************************
 #
-#  Frank playing around with Python ...
+#  IamNotGandalf playing around with Python ...
 #  29.Sep.2017
 #
 #  Quest from Project Euler: Problem #9 - Special Pythagorean Triplet
